@@ -8,7 +8,7 @@ Para empezar, se plantea contar entre 50 y 100 puntos de distribución, 2500 y 5
 
   
 
-Se considerará que el punto de distribución será el punto de partida y el punto de entrega será el punto de llegada.Para las transiciones,se usarán los vehículos que partirán desde el punto desde el inicio y se irán trasladando entre los puntos hasta llegar al punto de destino del mismo modo podrán pasar solo una vez por un mismo punto.
+Se considerará que el punto de distribución será el punto de partida y  el punto de llegada será el ultimo punto de entrega final del recorrido.Para las transiciones,se usarán los vehículos que partirán desde el punto desde el inicio y se irán trasladando entre los puntos de entrega hasta llegar al punto de destino del mismo modo podrán pasar solo una vez por un mismo punto.
 
   
 
