@@ -25,7 +25,7 @@ En el presente trabajo, como equipo hemos coordinado cada una de las actividades
 - Reporte de actividades:
     - Franco Galindo Alvarez
 - Realizar video explicativo
-    - ...
+    - Jose Eduardo Peralta Saravia
 
 Además de las presentadas actividades, podemos encontrar más que no estamos mencionaodo, debido a que fueron realizadas en conjunto o simplemente porque uno tuvo la iniciativa de hacerla.
 
