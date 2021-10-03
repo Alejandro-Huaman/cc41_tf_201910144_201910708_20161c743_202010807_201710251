@@ -13,4 +13,4 @@ Luego de aplicar lo mencionado anteriormente, esperamos un resultado como el mos
 ![enter image description here](https://i.ibb.co/B2nRJ3m/algo2.png)
 
 Como vemos se logro recorrer todos los puntos de entrega partiendo de 2 almacenes, sin repetir el camino.
-Este algoritmo podría saltarse algunos caminos mas cortos, pero nos asegura el recorrido total de los puntos de entrega, así como el no pasar de nuevo por un mismo punto, aumentando el costo. Ya que este recorrido es por niveles, el bigO dependerá de estos, siendo el mismo O(n), siendo n el numero de niveles.
+Este algoritmo podría saltarse algunos caminos mas cortos, pero nos asegura el recorrido total de los puntos de entrega, así como el no pasar de nuevo por un mismo punto, aumentando el costo. Ya que este recorrido es por niveles, el bigO dependerá de estos, siendo el mismo O(n), siendo n el numero de niveles que recorrera.
