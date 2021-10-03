@@ -29,4 +29,4 @@ En el presente trabajo, como equipo hemos coordinado cada una de las actividades
 
 Además de las presentadas actividades, podemos encontrar más que no estamos mencionaodo, debido a que fueron realizadas en conjunto o simplemente porque uno tuvo la iniciativa de hacerla.
 
-**URL DEL VIDEO:** Aquí va la url
+**URL DEL VIDEO:** [Exposición](https://drive.google.com/file/d/1JGNe2cjLAb1-nN8RWJ33b-QWkVfLnSam/view?usp=sharing)
