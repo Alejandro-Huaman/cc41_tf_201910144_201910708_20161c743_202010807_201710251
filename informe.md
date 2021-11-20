@@ -338,8 +338,8 @@ Se realizó en un tiempo promedio de 600 ms.
 
 ## Conclusiones
 
-- Tanto los algoritmos Dijkstra, Prim y BFS serían ideales para el problema, ya que nos permiten encontrar el camino más cercano a partir de un nodo, funcianando con mayor eficiencia en gráficos densos, es decir, cuando el número de aristas es alto.
-- Tanto los algortimos Bellmand Ford, DLS, DFS y Kruskal no serían ideales, ya que no presentan el suficiente rendimiento para soportar el presente gráfico, ya que estos trabajan mejor en gráficos dispersos y más pequeños.
+- Tanto los algoritmos Dijkstra, Prim y BFS serían ideales para el problema, ya que nos permiten encontrar el camino más cercano a partir de un nodo, funcionando con mayor eficiencia en gráficos densos, es decir, cuando el número de aristas es alto.
+- Tanto los algoritmos Bellmand Ford, DLS, DFS y Kruskal no serían ideales, ya que no presentan el suficiente rendimiento para soportar el presente gráfico, ya que estos trabajan mejor en gráficos dispersos y más pequeños.
 
 ## Bibliografia:
 
