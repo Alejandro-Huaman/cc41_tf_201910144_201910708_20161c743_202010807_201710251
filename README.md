@@ -30,3 +30,21 @@ En el presente trabajo, como equipo hemos coordinado cada una de las actividades
 Además de las presentadas actividades, podemos encontrar más que no estamos mencionaodo, debido a que fueron realizadas en conjunto o simplemente porque uno tuvo la iniciativa de hacerla.
 
 **URL DEL VIDEO:** [Exposición](https://drive.google.com/file/d/1JGNe2cjLAb1-nN8RWJ33b-QWkVfLnSam/view?usp=sharing)
+
+
+## Introducción
+...
+
+## Objetivos
+
+• Desarrollar la competencia general de razonamiento cuantitativo y la competencia específica de uso de técnicas y herramientas acorde a los objetivos del curso.
+
+• Desarrollar un algoritmo que permita resolver completa o parcialmente el problema de enrutamiento de vehículos o VRP.
+
+• Determinar la importancia de la aplicación de algoritmos eficientes a la hora de resolver un problema.
+
+• Analizar la eficiencia y complejidad de los algoritmos planteados.
+
+• Buscar un balance entre el tiempo y costo de entrega.
+
+
