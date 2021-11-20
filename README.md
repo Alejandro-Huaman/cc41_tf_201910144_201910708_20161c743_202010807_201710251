@@ -11,7 +11,7 @@ Trabajo Final para el curso de Complejidad Algorítmica.
 ## Reporte de Actividades
 
 ### Trabajo Parcial
-En el presente trabajo, como equipo hemos coordinado cada una de las actividades necesarias para alcanzar los objetivos de esta primera entrega. Por lo que cada uno de los intregantes es reesponsble de una o varias actividades. Estas se ven a continuación:
+En el presente trabajo, como equipo hemos coordinado cada una de las actividades necesarias para alcanzar los objetivos de esta primera entrega "Trabajo Parcial". Por lo que cada uno de los intregantes es responsable de una o varias actividades. Estas se ven a continuación:
 
 - Crear los dataset de los puntos de entrega y almacenes: 
     - Franco Galindo Alvarez
@@ -19,7 +19,8 @@ En el presente trabajo, como equipo hemos coordinado cada una de las actividades
     - Alejandro Sebastián Huamán Ruiz 
     - Giusen Eduardo Rebaza Maticorena
     - Jose Eduardo Peralta Saravia
-- Realizar análisis preliminar de la complejidad de los algoritmos a realizar: Cada integrante realizó el suyo.
+- Realizar análisis preliminar de la complejidad de los algoritmos a realizar: 
+    - Cada integrante realizó el suyo
 - Generar descripción de datos de vehículos de entrega:
     - Ernesto Valdivia
 - Reporte de actividades:
@@ -27,53 +28,60 @@ En el presente trabajo, como equipo hemos coordinado cada una de las actividades
 - Realizar video explicativo
     - Jose Eduardo Peralta Saravia
 
-Además de las presentadas actividades, podemos encontrar más que no estamos mencionaodo, debido a que fueron realizadas en conjunto o simplemente porque uno tuvo la iniciativa de hacerla.
+Además de las presentadas actividades, podemos encontrar más que no estamos mencionando, debido a que fueron realizadas en conjunto o simplemente porque uno tuvo la iniciativa de hacerla.
 
 **URL DEL VIDEO:** [Exposición](https://drive.google.com/file/d/1JGNe2cjLAb1-nN8RWJ33b-QWkVfLnSam/view?usp=sharing)
 
+### Hito 1 TF
+En el presente trabajo, como equipo hemos coordinado cada una de las actividades necesarias para alcanzar los objetivos de esta segunda entrega "Hito 1 TF". Por lo que cada uno de los intregantes es responsable de una o varias actividades. Estas se ven a continuación:
 
-## Introducción
-...
+- Agregar la información de dataset de almacenes.csv:
+    - Franco Galindo Alvarez
+- Agregar la información de dataset de puntos_entrega.csv:
+    - Franco Galindo Alvarez
+- Generar lista de adyacencia del mapa:
+    - Franco Galindo Alvarez
+- Imprimir matriz del mapa:
+    - Jose Eduardo Peralta Saravia
 
-## Objetivos
+### Hito 2 TF
+En el presente trabajo, como equipo hemos coordinado cada una de las actividades necesarias para alcanzar los objetivos de esta tercera entrega "Hito 2 TF". Por lo que cada uno de los intregantes es responsable de una o varias actividades. Estas se ven a continuación:
 
-• Desarrollar la competencia general de razonamiento cuantitativo y la competencia específica de uso de técnicas y herramientas acorde a los objetivos del curso.
+- Implementar algoritmo Dijkstra al grafo generado:
+    - Todos los integrantes lo realizaron 
+- Implementar Dijkstra desde cada almacen a todos los puntos de entrega:
+    - Todos los integrantes lo realizaron
 
-• Desarrollar un algoritmo que permita resolver completa o parcialmente el problema de enrutamiento de vehículos (VRP).
+### Hito 3 TF
+En el presente trabajo, como equipo hemos coordinado cada una de las actividades necesarias para alcanzar los objetivos de esta cuarta entrega "Hito 3 TF". Por lo que cada uno de los intregantes es responsable de una o varias actividades. Estas se ven a continuación:
 
-• Determinar la importancia de la aplicación de algoritmos eficientes a la hora de resolver un problema.
+- Implementar algoritmo para repartir puntos de entrega entre almacenes:
+    - Todos los integrantes lo realizaron
+- Modificar algoritmo Dijkstra para cada almacen, ahora a sus puntos cercanos:
+    - Todos los integrantes lo realizaron
+- Implementación de primera versión de los algoritmos de cada integrante:
+    - Cada integrante realizó el suyo
 
-• Analizar la eficiencia y complejidad de los algoritmos planteados.
+### Hito 4 TF
+En el presente trabajo, como equipo hemos coordinado cada una de las actividades necesarias para alcanzar los objetivos de esta quinta entrega "Hito 4 TF". Por lo que cada uno de los intregantes es responsable de una o varias actividades. Estas se ven a continuación:
 
-• Buscar un balance entre el tiempo y costo de entrega.
+- Implementación de segunda versión de los algoritmos de cada integrante:
+    - Cada integrante realizó el suyo
 
-## Marco Teorico
+### Presentación TF
+En el presente trabajo, como equipo hemos coordinado cada una de las actividades necesarias para alcanzar los objetivos de esta entrega final "Presentación TF". Por lo que cada uno de los intregantes es responsable de una o varias actividades. Estas se ven a continuación:
 
-### Algoritmo Bellman Ford
+- Implementación de versión final de los algoritmos de cada integrante:
+    - Cada integrante realizó el suyo
+- Elaborar versión final del informe.md:
+    - Todos los integrantes lo realizaron
+- Elaborar una presentación:
+    - Todos los integrantes lo realizaron
+- Preparar una demostración:
+    - Todos los integrantes lo realizaron
+- Elaboración de un video de 10 a 15 minutos con la exposición donde participan todos los integrantes:
+    - Todos los integrantes lo realizaron
 
+Además de las presentadas actividades, podemos encontrar más que no estamos mencionando, debido a que fueron realizadas por uno que tuvo la iniciativa de hacerla.
 
-## Experimentación
-
-### Solución 1: Aplicando el algoritmo ?
-Para esta solución utilizaremos el algoritmo de kruskal para hallar árboles de expansión mínima. En primer lugar, se obtendrán los datos de todos los centros poblados desde un archivo con extensión csv. Para ello definimos el siguiente modelo:
-```python 
-	#Clase CentroPoblado
-	class  CentroPoblado:
-		def  __init__(self,codigo,nombre,departamento,provincia,distrito,capital,coordX, coordY):
-			self.codigo = codigo
-			self.nombre = nombre
-			self.departamento = departamento
-			self.provincia = provincia
-			self.distrito = distrito
-			self.capital = capital
-			self.coordX = coordX
-			self.coordY = coordY
-		def  __str__(self):
-			return  "%s D: %s P: %s D: %s Cap: %d Cod: %s X: %f Y: %f"  % (self.nombre, self.departamento, self.provincia, self.distrito, self.capital, self.codigo,self.coordX,self.coordY)
-```
-##### Resultados
-Estos fueron los resultados obtenidos durante la experimentación:
-
-
-## Conclusiones
-...
+**URL DEL VIDEO:**
