@@ -39,7 +39,7 @@ Además de las presentadas actividades, podemos encontrar más que no estamos me
 
 • Desarrollar la competencia general de razonamiento cuantitativo y la competencia específica de uso de técnicas y herramientas acorde a los objetivos del curso.
 
-• Desarrollar un algoritmo que permita resolver completa o parcialmente el problema de enrutamiento de vehículos o VRP.
+• Desarrollar un algoritmo que permita resolver completa o parcialmente el problema de enrutamiento de vehículos (VRP).
 
 • Determinar la importancia de la aplicación de algoritmos eficientes a la hora de resolver un problema.
 
@@ -47,4 +47,33 @@ Además de las presentadas actividades, podemos encontrar más que no estamos me
 
 • Buscar un balance entre el tiempo y costo de entrega.
 
+## Marco Teorico
 
+### Algoritmo Bellman Ford
+
+
+## Experimentación
+
+### Solución 1: Aplicando el algoritmo ?
+Para esta solución utilizaremos el algoritmo de kruskal para hallar árboles de expansión mínima. En primer lugar, se obtendrán los datos de todos los centros poblados desde un archivo con extensión csv. Para ello definimos el siguiente modelo:
+```python 
+	#Clase CentroPoblado
+	class  CentroPoblado:
+		def  __init__(self,codigo,nombre,departamento,provincia,distrito,capital,coordX, coordY):
+			self.codigo = codigo
+			self.nombre = nombre
+			self.departamento = departamento
+			self.provincia = provincia
+			self.distrito = distrito
+			self.capital = capital
+			self.coordX = coordX
+			self.coordY = coordY
+		def  __str__(self):
+			return  "%s D: %s P: %s D: %s Cap: %d Cod: %s X: %f Y: %f"  % (self.nombre, self.departamento, self.provincia, self.distrito, self.capital, self.codigo,self.coordX,self.coordY)
+```
+##### Resultados
+Estos fueron los resultados obtenidos durante la experimentación:
+
+
+## Conclusiones
+...
