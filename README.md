@@ -84,4 +84,4 @@ En el presente trabajo, como equipo hemos coordinado cada una de las actividades
 
 Además de las presentadas actividades, podemos encontrar más que no estamos mencionando, debido a que fueron realizadas por uno que tuvo la iniciativa de hacerla.
 
-**URL DEL VIDEO:**
+**URL DE LA EXPOSICIÓN FINAL:** [Exposición Final](https://www.youtube.com/watch?v=vSxCNt2gbQI)  
