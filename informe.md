@@ -343,15 +343,15 @@ Se realizó en un tiempo promedio de 600 ms.
 
 ## Bibliografia:
 
-Algorithms and More (2016). CAMINO MÁS CORTO: ALGORITMO DE BELLMAN-FORD. Recuperado de: https://jariasf.wordpress.com/2013/01/01/camino-mas-corto-algoritmo-de-bellman-ford/
+Algorithms and More (2016). *CAMINO MÁS CORTO: ALGORITMO DE BELLMAN-FORD*. Recuperado de: https://jariasf.wordpress.com/2013/01/01/camino-mas-corto-algoritmo-de-bellman-ford/
 
-Algorithms and More (2012). ÁRBOL DE EXPANSIÓN MÍNIMA: ALGORITMO DE KRUSKAL. Recuperado de: https://jariasf.wordpress.com/2012/04/19/arbol-de-expansion-minima-algoritmo-de-kruskal/
+Algorithms and More (2012). *ÁRBOL DE EXPANSIÓN MÍNIMA: ALGORITMO DE KRUSKAL*. Recuperado de: https://jariasf.wordpress.com/2012/04/19/arbol-de-expansion-minima-algoritmo-de-kruskal/
 
-Algorithms and More (2016). DISJOINT-SET: UNION FIND. Recuperado de: https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/
+Algorithms and More (2016). *DISJOINT-SET: UNION FIND*. Recuperado de: https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/
 
-Estructura de Datos II (2016). Algoritmo de Prim. Recuperado de: https://estructurasite.wordpress.com/algoritmo-de-prim/
+Estructura de Datos II (2016). *Algoritmo de Prim*. Recuperado de: https://estructurasite.wordpress.com/algoritmo-de-prim/
 
-EcuRed (2018). Algoritmo de Dijkstra - EcuRed. Recuperado de: https://www.ecured.cu/Algoritmo_de_Dijkstra
+EcuRed (2018). *Algoritmo de Dijkstra - EcuRed*. Recuperado de: https://www.ecured.cu/Algoritmo_de_Dijkstra
 
-Kripkit (2021). Búsqueda de Produndidad Limitada. Recuperado de:  https://kripkit.com/bsqueda-de-profundidad-limitada/
+Kripkit (2021). *Búsqueda de Profundidad Limitada*. Recuperado de:  https://kripkit.com/bsqueda-de-profundidad-limitada/
 
